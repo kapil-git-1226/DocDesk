@@ -27,6 +27,9 @@ An interactive and modern document management system built with React, featuring
 - Optimized for both desktop and mobile
 - Modular, developer-friendly code structure
 
+### Future Scope
+- Implement Backend to save real documents in real time by creating cards for each doc. 
+
 ### 🚀 Getting Started
 Follow these steps to run the project locally:
 
