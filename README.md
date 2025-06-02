@@ -43,7 +43,7 @@ git clone https://github.com/your-username/react-docs-manager.git
 cd react-docs-manager
 
 2. Install dependencies
-Make sure you have Node.js installed.
+Make sure you have Node.js installed.\n
 npm install
 
 3. Start the development server
