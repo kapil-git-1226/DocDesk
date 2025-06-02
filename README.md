@@ -7,26 +7,26 @@ An interactive and modern document management system built with React, featuring
 -Status toggling (mark as complete → turns green)
 -Delete functionality
 
-###➕ Dynamic card creation:
+### ➕ Dynamic card creation:
 -Large plus icon when no cards exist
 -Floating add button when cards are present
 
-###🧩 Interactive UI:
+### 🧩 Interactive UI:
 -Smooth drag-and-drop with Framer Motion
 -Modal form with semi-transparent overlay for focused creation
 -Visual feedback & animations for all user actions
 
-###🎨 Tech Stack:
+### 🎨 Tech Stack:
 -React with Hooks (useState, useRef)
 -Tailwind CSS for modern styling
 -Framer Motion for drag & drop + smooth transitions
 
-###💻 UX Highlights:
+### 💻 UX Highlights:
 -Clean, minimalist, and responsive layout
 -Optimized for both desktop and mobile
 -Modular, developer-friendly code structure
 
-###🚀 Getting Started
+### 🚀 Getting Started
 Follow these steps to run the project locally:
 
 1. Clone the repository
