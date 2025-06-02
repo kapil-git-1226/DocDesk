@@ -1,7 +1,7 @@
 ### DocDesk
 An interactive and modern document management system built with React, featuring a dark-themed UI, intuitive interactions, and a flexible drag-and-drop workspace.
 
-###✨ Features
+### ✨ Features
 #📝 Create, manage, and customize document cards:
 -Descriptions, file sizes, and color-coded tags (blue/green)
 -Status toggling (mark as complete → turns green)
